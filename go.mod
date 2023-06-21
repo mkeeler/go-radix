@@ -1,3 +1,3 @@
-module github.com/armon/go-radix
+module github.com/mkeeler/go-radix
 
-go 1.18
+go 1.20

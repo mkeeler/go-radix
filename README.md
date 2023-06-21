@@ -1,4 +1,4 @@
-go-radix [![Build Status](https://travis-ci.org/armon/go-radix.png)](https://travis-ci.org/armon/go-radix)
+go-radix [Godoc](http://pkg.go.dev/github.com/mkeeler/go-radix)
 =========
 
 Provides the `radix` package that implements a [radix tree](http://en.wikipedia.org/wiki/Radix_tree).
@@ -10,12 +10,12 @@ As a radix tree, it provides the following:
  * Minimum / Maximum value lookups
  * Ordered iteration
 
-For an immutable variant, see [go-immutable-radix](https://github.com/hashicorp/go-immutable-radix).
+This repo is a fork of github.com/armon/go-radix updated to use generics.
 
 Documentation
 =============
 
-The full documentation is available on [Godoc](http://pkg.go.dev/github.com/armon/go-radix).
+The full documentation is available on [Godoc](http://pkg.go.dev/github.com/mkeeler/go-radix).
 
 Example
 =======
